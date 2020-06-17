@@ -10,7 +10,7 @@ h1  {
 }
 
 a {
-  align-items: center;
+  align: center;
   padding: 10px;
   background: pink;
 }
