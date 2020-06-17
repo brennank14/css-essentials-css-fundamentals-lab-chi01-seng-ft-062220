@@ -19,3 +19,7 @@ a {
 p#featured-property{
   width: 800px;
 }
+
+div {
+  display: block;
+}
