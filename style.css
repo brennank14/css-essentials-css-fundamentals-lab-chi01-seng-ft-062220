@@ -6,4 +6,15 @@ body {
 
 h1  {
   color: red;
+  align-content: center;  
+}
+
+a {
+  align-content: center;
+  padding: 10px;
+  background: pink;
+}
+
+p#featured-property{
+  width: 800px;
 }
